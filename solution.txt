@@ -6,7 +6,7 @@ $ curl --output /dev/null --silent --head --fail sdi2000284.github.io && \ echo 
 URL exists
 
 $ cat solution.txt
-byte0: treasure
+byte0:now_you_know_how_to_change_directories
 byte1:
 byte2: 
 byte3:
